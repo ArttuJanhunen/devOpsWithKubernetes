@@ -1,0 +1,7 @@
+ ajanhune@lx8-fuxi103:~/kubecourse/Exercises1/1.02$ kubectl logs kuberneteswebserver-6bf5ff9895-mp24s
+
+> webserver@1.0.0 start
+> node index.js
+
+Server started in port 3001
+

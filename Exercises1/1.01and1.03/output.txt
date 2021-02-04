@@ -1,0 +1,21 @@
+kubectl logs -f kubernetesgenerator-5b46fb58c5-h42n8
+
+> generator@1.0.0 start
+> node index.js
+
+Thu, 04 Feb 2021 20:05:36 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:05:41 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:05:46 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:05:51 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:05:56 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:01 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:06 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:11 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:16 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:21 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:26 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:31 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:36 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:41 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+Thu, 04 Feb 2021 20:06:46 GMT: c7e77ad027f0bf9b-ce50b086-620bf9e9-bbe73b1f-6e2ec84d-11315faa6d6037ff
+

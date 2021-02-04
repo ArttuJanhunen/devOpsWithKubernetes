@@ -1,0 +1,22 @@
+kubectl logs kubernetesgenerator-7df987fbc9-cdhng
+
+> generator@1.0.0 start
+> node index.js
+
+Thu, 04 Feb 2021 21:27:36 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:27:41 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:27:46 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:27:51 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:27:56 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:01 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:06 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:11 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:16 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:21 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:26 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:31 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:36 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:41 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:46 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:51 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf
+Thu, 04 Feb 2021 21:28:56 GMT: 6206643741e7a0df-733c7acb-22cbccbc-71ece1fb-cbd694b7-e2b87d7eebe2d2cf

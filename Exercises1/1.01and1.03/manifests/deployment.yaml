@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kubernetesgenerator
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: kubernetesgenerator
+  template:
+    metadata:
+      labels:
+        app: kubernetesgenerator
+    spec:
+      containers:
+        - name: kubernetesgenerator
+          image: a4p3e/kubernetesgenerator:declarative
+          
